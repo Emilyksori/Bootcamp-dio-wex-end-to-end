@@ -14,6 +14,8 @@ Você foi contratado para construir um sistema para um estacionamento, que será
 
 ## 🧠 Regras do Sistema
 
+<div align="center"> <img src="./diagrama_classe_estacionamento.png" alt="Diagrama da Classe Estacionamento" width="20%"> </div>
+
 A classe `Estacionamento` deve conter os seguintes elementos:
 
 ### 🔸 Atributos
